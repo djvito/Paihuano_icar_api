@@ -1,0 +1,11 @@
+C:\Users\VITO\Desktop\CalleLarga\Apis-ICAR\gsc_procesar_permiso-main\Fuentes\ProcesarPermiso\bin\Release\net5.0\publish\appsettings.Development.json
+C:\Users\VITO\Desktop\CalleLarga\Apis-ICAR\gsc_procesar_permiso-main\Fuentes\ProcesarPermiso\bin\Release\net5.0\publish\appsettings.json
+C:\Users\VITO\Desktop\CalleLarga\Apis-ICAR\gsc_procesar_permiso-main\Fuentes\ProcesarPermiso\bin\Release\net5.0\publish\ProcesarPermiso.pdb
+C:\Users\VITO\Desktop\CalleLarga\Apis-ICAR\gsc_procesar_permiso-main\Fuentes\ProcesarPermiso\bin\Release\net5.0\publish\Files\Img\Fondo.jpg
+C:\Users\VITO\Desktop\CalleLarga\Apis-ICAR\gsc_procesar_permiso-main\Fuentes\ProcesarPermiso\bin\Release\net5.0\publish\Files\Img\timbre.png
+C:\Users\VITO\Desktop\CalleLarga\Apis-ICAR\gsc_procesar_permiso-main\Fuentes\ProcesarPermiso\bin\Release\net5.0\publish\clrcompression.dll
+C:\Users\VITO\Desktop\CalleLarga\Apis-ICAR\gsc_procesar_permiso-main\Fuentes\ProcesarPermiso\bin\Release\net5.0\publish\clrjit.dll
+C:\Users\VITO\Desktop\CalleLarga\Apis-ICAR\gsc_procesar_permiso-main\Fuentes\ProcesarPermiso\bin\Release\net5.0\publish\coreclr.dll
+C:\Users\VITO\Desktop\CalleLarga\Apis-ICAR\gsc_procesar_permiso-main\Fuentes\ProcesarPermiso\bin\Release\net5.0\publish\mscordaccore.dll
+C:\Users\VITO\Desktop\CalleLarga\Apis-ICAR\gsc_procesar_permiso-main\Fuentes\ProcesarPermiso\bin\Release\net5.0\publish\sni.dll
+C:\Users\VITO\Desktop\CalleLarga\Apis-ICAR\gsc_procesar_permiso-main\Fuentes\ProcesarPermiso\bin\Release\net5.0\publish\ProcesarPermiso.exe
